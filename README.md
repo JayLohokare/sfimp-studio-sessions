@@ -12,3 +12,6 @@ All Logic and GarageBand (and other) projects in this repository are licensed un
 **Commercial Use:**
 Commercial use (including monetized YouTube videos, streaming releases, or paid performances) is strictly prohibited under the free license. 
 For commercial licensing and pricing inquiries, please contact Nava Sounds LLC <jay@navasounds.com>
+
+Project Songs on 
+https://www.youtube.com/playlist?list=PLyJkSHlUXuIilcbaKmMorbIpJ53Ttt75T
