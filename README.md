@@ -1,10 +1,9 @@
 # sfimp-studio-sessions
 Logic / Garageband projects for SF Indian Music project
 
-Because storing files on Drive is not free.
 
 ## Licensing
-All Logic and GarageBand projects in this repository are licensed under the **CC BY-NC 4.0** license. 
+All Logic and GarageBand (and other) projects in this repository are licensed under the **CC BY-NC 4.0** license. 
 
 **What you can do for free:**
 * Download, remix, and use these sessions for personal, non-profit, or educational purposes.
